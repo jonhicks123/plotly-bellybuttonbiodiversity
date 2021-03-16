@@ -6,6 +6,10 @@ In this assignment, I will built an interactive dashboard to explore the [Belly 
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+## Deployment
+
+* Deployed app: https://jonhicks123.github.io/plotly-bellybuttonbiodiversity/index.html
+
 ## Step 1: Plotly
 
 1. Use the D3 library to read in `samples.json`.
@@ -35,10 +39,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
 6. Update all of the plots any time that a new sample is selected.
-
-## Deployment
-
-* Deployed app: 
 
 ### About the Data
 
